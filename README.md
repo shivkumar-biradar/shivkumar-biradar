@@ -70,8 +70,6 @@
 ## 🌐 Live Demo
 
 🔗 https://jewellery-e-commerce-website-iw1b.onrender.com
-Jewellery E-Commerce Website built using Django.
-
 
 Features:
 
